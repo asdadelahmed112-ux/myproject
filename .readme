@@ -1,0 +1,24 @@
+├── config/
+│   └── db.js
+├── controllers/
+│   ├── categoryController.js
+│   ├── productController.js
+│   ├── cartController.js
+│   └── orderController.js
+├── middleware/
+│   └── errorHandler.js
+├── models/
+│   ├── Category.js
+│   ├── Product.js
+│   ├── Cart.js
+│   └── Order.js
+├── routes/
+│   ├── categoryRoutes.js
+│   ├── productRoutes.js
+│   ├── cartRoutes.js
+│   └── orderRoutes.js
+├── utils/
+│   └── seed.js
+├── .env
+├── package.json
+└── server.js
